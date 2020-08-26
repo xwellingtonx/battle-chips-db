@@ -1,0 +1,13 @@
+This is the original USA battle chips library first version, before they change they fix the issues with names/types.
+
+The images follow the numbers from the link below.
+https://megaman.fandom.com/wiki/List_of_Advanced_PET_Battle_Chips
+
+Chips Missing:
+ID 083  - Toppuu 
+ID 084  - Suikomi 
+ID 092  - Double Crack 
+ID 093  - Triple Crack 
+ID 158  - Propeller Bomb 2 
+
+All Navi chips 
