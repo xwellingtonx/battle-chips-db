@@ -1,0 +1,4 @@
+This is the original Japanese battle chips library, unfourtunately I couldn't recover all.
+
+The chips are ordered following the link below.
+https://megaman.fandom.com/wiki/List_of_Link_PET_EX_Battle_Chips
